@@ -1,9 +1,9 @@
 /*************************************/
 /* Author      :Munusamy M           */
 /* Date        :22-01-2019           */
-/* Filename    :receiver_p6.c        */
-/* Description :collect all strings  */
-/*             from p1,p2,p3,p4,p5   */
+/* Filename    :ls.c                 */
+/* Description : Its shows file and  */
+/*               Directories         */
 /*************************************/
 
 #include "ls_header.h" 
